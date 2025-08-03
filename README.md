@@ -15,11 +15,11 @@ This project bridges the gap between data science and conversational AI. Whether
 - Pandas Agent Integration: Execute complex data queries and transformations using a dedicated Pandas agent.
 
 # Tech Stack
-Frontend: Streamlit
-LLM Framework: Langchain
-Language Model: Google Gemini
-Data Processing: Pandas
-Language: Python
+  * Frontend: Streamlit
+  * LLM Framework: Langchain
+  * Language Model: Google Gemini
+  * Data Processing: Pandas
+  * Language: Python
 
 # Getting Started
 1. Clone the repository
