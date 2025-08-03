@@ -4,6 +4,8 @@ An intelligent, interactive assistant that simplifies Exploratory Data Analysis 
 # Overview
 This project bridges the gap between data science and conversational AI. Whether you're a data analyst, scientist, or enthusiast, the assistant provides a seamless interface to upload data, ask questions, generate visualizations, and clean datasets — all through natural language.
 
+<img width="944" height="425" alt="image" src="https://github.com/user-attachments/assets/de988c92-f267-496d-912e-085876df5f74" />
+
 # Key Features
 - Natural Language EDA: Ask questions about your dataset and receive intelligent, context-aware responses powered by Gemini.
 - CSV Upload & Analysis: Upload your CSV files and explore them interactively through a chat-based interface.
