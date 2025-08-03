@@ -21,15 +21,19 @@ Language: Python
 
 # Getting Started
 1. Clone the repository
+  ```text
   git clone https://github.com/your-username/ai-eda-assistant.git
   cd ai-eda-assistant
+  ```
 
 2. Install dependencies
+   ```text
    pip install -r requirements.txt
-   
+   ```
 3. Run the app
+   ```text
    streamlit run eda_app.py
-
+   ```
 4. Upload your CSV and start exploring your data through the chat interface!
 
 # Use Cases
