@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scipy
+langchain
+langchain-experimental
+langchain-community
+langchain-groq
+python-dotenv
+wikipedia
+tabulate
